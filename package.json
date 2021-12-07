@@ -1,0 +1,7 @@
+{
+  "name": "environment-secrets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Murgor <murgornaftali@gmail.com>",
+  "license": "MIT"
+}
